@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-# 0-add_integer.py
-# Inuwa Bello <belloinuwa13@gmail.com>
 """Defines an integer addition function."""
+
 
 def add_integer(a, b=98):
     """Return the integer addition of a and b.
